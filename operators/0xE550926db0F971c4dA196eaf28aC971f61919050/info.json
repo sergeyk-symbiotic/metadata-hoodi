@@ -1,0 +1,15 @@
+{
+  "name": "Operator f035",
+  "description": "Operators are entities running infrastructure for decentralized networks within and outside of the Symbiotic ecosystem",
+  "tags": [
+    "operator",
+    "Operator f035"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0xE550926db0F971c4dA196eaf28aC971f61919050"
+    }
+  ]
+}

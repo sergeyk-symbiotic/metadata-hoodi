@@ -1,0 +1,15 @@
+{
+  "name": "Network a5ef",
+  "description": "Networks are fundamental components of the Symbiotic protocol that consume economic security and drive the demand for staking. They represent decentralized systems that require validation and security guarantees for their operations. As consumers of economic security, networks work in conjunction with other protocol elements to create customized security configurations that best suit their specific requirements.",
+  "tags": [
+    "network",
+    "Network a5ef"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x270389e369e11b20E1f3D4bA691976c52a7d9caB"
+    }
+  ]
+}
