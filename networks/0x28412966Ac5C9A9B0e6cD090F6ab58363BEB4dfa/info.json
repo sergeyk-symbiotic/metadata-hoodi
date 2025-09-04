@@ -1,0 +1,15 @@
+{
+  "name": "Network c7b8",
+  "description": "Networks are fundamental components of the Symbiotic protocol that consume economic security and drive the demand for staking. They represent decentralized systems that require validation and security guarantees for their operations. As consumers of economic security, networks work in conjunction with other protocol elements to create customized security configurations that best suit their specific requirements.",
+  "tags": [
+    "network",
+    "Network c7b8"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x28412966Ac5C9A9B0e6cD090F6ab58363BEB4dfa"
+    }
+  ]
+}

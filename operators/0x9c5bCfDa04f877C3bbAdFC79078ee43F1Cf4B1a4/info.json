@@ -1,0 +1,15 @@
+{
+  "name": "Operator d992",
+  "description": "Operators are entities running infrastructure for decentralized networks within and outside of the Symbiotic ecosystem",
+  "tags": [
+    "operator",
+    "Operator d992"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x9c5bCfDa04f877C3bbAdFC79078ee43F1Cf4B1a4"
+    }
+  ]
+}

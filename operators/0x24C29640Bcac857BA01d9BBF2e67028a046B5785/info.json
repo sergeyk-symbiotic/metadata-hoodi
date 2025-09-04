@@ -1,0 +1,15 @@
+{
+  "name": "Operator 37c8",
+  "description": "Operators are entities running infrastructure for decentralized networks within and outside of the Symbiotic ecosystem",
+  "tags": [
+    "operator",
+    "Operator 37c8"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io/address/0x24C29640Bcac857BA01d9BBF2e67028a046B5785"
+    }
+  ]
+}
