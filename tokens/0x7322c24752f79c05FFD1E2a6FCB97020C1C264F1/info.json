@@ -10,12 +10,12 @@
 		{
 			"type": "explorer",
 			"name": "Etherscan",
-			"url": "https://holesky.etherscan.io/address/0x7322c24752f79c05ffd1e2a6fcb97020c1c264f1"
+			"url": "https://hoodi.etherscan.io/token/0x7322c24752f79c05ffd1e2a6fcb97020c1c264f1#code"
 		},
 		{
 			"type": "website",
 			"name": "https://google.com",
-			"url": "everything will be found"
+			"url": "https://rocketpool.net/"
 		},
 		{
 			"type": "docs",
