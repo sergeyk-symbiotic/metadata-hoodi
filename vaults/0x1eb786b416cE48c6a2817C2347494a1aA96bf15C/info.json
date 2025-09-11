@@ -28,5 +28,6 @@
 			"type": "defaultStakingRewardsV2"
 		}
 	],
-	"curatorId": "curator-1"
+	"curatorId": "curator-1",
+    "vaultType": "eth-restaking"
 } 

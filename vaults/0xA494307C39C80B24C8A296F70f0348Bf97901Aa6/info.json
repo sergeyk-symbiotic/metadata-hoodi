@@ -12,5 +12,6 @@
             "url": "https://sepolia.etherscan.io/address/0xA494307C39C80B24C8A296F70f0348Bf97901Aa6"
         }
     ],
-    "curatorId": "curator-2"
+    "curatorId": "curator-2",
+    "vaultType": "btc-restaking"
 }
