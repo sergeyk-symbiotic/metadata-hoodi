@@ -11,6 +11,5 @@
             "name": "Etherscan",
             "url": "https://sepolia.etherscan.io/address/0xC9ed5e4aBc2b82674b204E6a193b78987ef1ecD8"
         }
-    ],
-    "vaultType": "network-exclusive"
+    ]
 }
