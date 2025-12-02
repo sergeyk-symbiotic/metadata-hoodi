@@ -1,0 +1,29 @@
+{
+  "type": "invalid",
+  "name": "Qqreq",
+  "decimals": 48,
+  "description": "Symbiotic points are the native points of the Symbiotic ecosystem.",
+  "tags": ["symbiotic", "points"],
+  "links": [
+    {
+      "type": "website",
+      "name": "Website",
+      "url": "https://symbiotic.fi/"
+    },
+    {
+      "type": "social",
+      "name": "Github",
+      "url": "https://github.com/symbioticfi"
+    },
+    {
+      "type": "social",
+      "name": "Twitter",
+      "url": "https://x.com/symbioticfi"
+    },
+    {
+      "type": "docs",
+      "name": "Documentation",
+      "url": "https://docs.symbiotic.fi/"
+    }
+  ]
+}
