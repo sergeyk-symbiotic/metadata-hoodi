@@ -14,17 +14,17 @@ jobs:
 
     steps:
       - name: Detect changed files
-        uses: yumemi-inc/changed-files@50f2544ad88b4f274eace9689431b7281132304c  # pin@v3.2.0
+        uses: yumemi-inc/changed-files@50f2544ad88b4f274eace9689431b7281132304c # pin@v3.2.0
         id: changes
 
       - name: Checkout repository
-        uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8  # pin@v5.0.0
+        uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # pin@v5.0.0
         with:
           ref: ${{ github.event.pull_request.head.ref }}
           repository: ${{ github.event.pull_request.head.repo.full_name }}
 
       - name: Checkout upstream
-        uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8  # pin@v5.0.0
+        uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # pin@v5.0.0
         with:
           path: upstream
           ref: main
@@ -32,7 +32,7 @@ jobs:
 
       - name: Validate
         if: steps.changes.outputs.exists == 'true'
-        uses: symbioticfi/metadata-validation-scripts@main
+        uses: symbioticfi/metadata-validation-scripts@DEV-689-offchain-entities-validation
         with:
           files: ${{ steps.changes.outputs.files }}
           issue: ${{ github.event.number }}
