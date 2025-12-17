@@ -32,7 +32,7 @@ jobs:
 
       - name: Validate
         if: steps.changes.outputs.exists == 'true'
-        uses: symbioticfi/metadata-validation-scripts@DEV-689-offchain-entities-validation
+        uses: symbioticfi/metadata-validation-scripts@off-chain-entities-validation
         with:
           files: ${{ steps.changes.outputs.files }}
           issue: ${{ github.event.number }}
